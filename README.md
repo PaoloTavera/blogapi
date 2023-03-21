@@ -1,9 +1,14 @@
 # blogapi
 Web Development Project
 
-#Group
+***
+
+# Group
 WeDev
 
-#Members
-Paolo Tavera
+***
+
+# Members
+ Paolo Tavera
+ 
 Jobert Tavera
